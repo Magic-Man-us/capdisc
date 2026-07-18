@@ -9,6 +9,8 @@ build/
 .venv/
 venv/
 .coverage
+coverage.xml
+junit.xml
 
 # >>> AgentForge managed gitignore (do not edit between markers) >>>
 **/.agentforge/audit.jsonl
