@@ -1,7 +1,7 @@
 # capdisc
 
-[![PyPI](https://img.shields.io/pypi/v/capdisc.svg)](https://pypi.org/project/capdisc/)
-[![Python versions](https://img.shields.io/pypi/pyversions/capdisc.svg)](https://pypi.org/project/capdisc/)
+[![PyPI](https://img.shields.io/pypi/v/claude-code-capabilities.svg)](https://pypi.org/project/claude-code-capabilities/)
+[![Python versions](https://img.shields.io/pypi/pyversions/claude-code-capabilities.svg)](https://pypi.org/project/claude-code-capabilities/)
 [![CI](https://github.com/Magic-Man-us/capability-discovery/actions/workflows/ci.yml/badge.svg)](https://github.com/Magic-Man-us/capability-discovery/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Magic-Man-us/capability-discovery/blob/main/LICENSE)
 
@@ -11,9 +11,9 @@ Pydantic catalogs and an environment report.
 ## Install
 
 ```bash
-uv add capdisc
+uv add claude-code-capabilities
 # or
-pip install capdisc
+pip install claude-code-capabilities
 ```
 
 ## CLI
