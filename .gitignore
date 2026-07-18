@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.coverage
+
+# >>> AgentForge managed gitignore (do not edit between markers) >>>
+**/.agentforge/audit.jsonl
+**/.agentforge/backups/
+**/.agentforge/tombstones/
+**/.agentforge/logs/
+**/.agentforge/sessions/
+**/.agentforge/diagnostics/
+**/.agentforge/cache/
+# <<< AgentForge managed gitignore <<<
+discovery-report.html

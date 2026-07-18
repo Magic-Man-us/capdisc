@@ -1,0 +1,22 @@
+{
+  "name": "capabilities-discovery",
+  "displayName": "Capabilities Discovery",
+  "version": "0.1.0",
+  "description": "Inventory the machine's Claude Code capabilities — skills, agents, plugins, MCP servers, hooks, and built-in tools across user/project/plugin scopes — into a typed JSON catalog and an HTML environment report.",
+  "author": {
+    "name": "Magic-Man-us"
+  },
+  "repository": "https://github.com/Magic-Man-us/capdisc",
+  "license": "MIT",
+  "keywords": [
+    "capabilities",
+    "catalog",
+    "skills",
+    "agents",
+    "plugins",
+    "mcp",
+    "hooks",
+    "environment-report"
+  ],
+  "defaultEnabled": true
+}
